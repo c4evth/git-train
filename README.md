@@ -1,2 +1,2 @@
 # git-train
-A repo train using git.
+A repo to train using git.
